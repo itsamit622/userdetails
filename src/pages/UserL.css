@@ -1,0 +1,27 @@
+.user-list {
+    display: inline-block;
+    border: 3px solid greenyellow;
+    border-radius: 20px;
+    width :170px;
+    text-align: center;
+
+}
+.user-list2
+    {
+    display: inline-block;
+    margin: 50px;
+}
+/* inline and inline block diff */
+.link-list {
+    display: inline;
+    border: 2px solid bisque;
+    margin: 2px;
+    background-color: wheat;
+    border-radius: 6px;
+}
+.text {
+    font-size: 10px;
+}
+.image-class{
+    text-align: center;
+}
